@@ -1,1 +1,4 @@
-
+server:
+  port: 9034
+name: guofeng-uat-master
+age: 28-uat-master
